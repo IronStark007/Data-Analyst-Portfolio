@@ -2,12 +2,14 @@
 This repository contains all the project of my Data Analyst Portfolio
 
 ## Directory Structure
-* Main project folder
-  * Data Cleaning folder
-    * Data Cleaning files
-  *  Data Analysis folder
-      * Analysis/Visualization   
-      * Recommendation/Conclusion & Next Steps
+
+* Project
+    * Data Cleaning
+        * Cleaning Steps
+    * Data Analysis 
+        * Analysis & Visualize
+        * Recommendations / Conclusions & Next Steps
+ 
  
 ## Projects
 | S.no | Project Name | Problem |
