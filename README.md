@@ -1,16 +1,6 @@
 <h1 align="center">Hello, Welcome to my Data Analyst Portfolio Project Repository👋</h1>
 This repository contains all the project of my Data Analyst Portfolio
-
-## Directory Structure
-
-* Project
-    * Data Cleaning
-        * Cleaning Steps
-    * Data Analysis 
-        * Analysis & Visualize
-        * Recommendations / Conclusions & Next Steps
- 
- 
+  
 ## Projects
 | S.no | Project Name | Problem |
 | --------------- | --------------- | --------------- |
