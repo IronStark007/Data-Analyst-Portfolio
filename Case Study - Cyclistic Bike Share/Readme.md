@@ -47,7 +47,7 @@ During process phase I have make new columns namely -
 
 And aggregate them by median (not mean, since the data contains many outliers).
 
-You can see the final clean file - [Here](https://github.com/IronStark007/Data-Analyst-Portfolio/blob/master/Case%20Study%20-%20Cyclistic%20Bike%20Share/Data%20Cleaning/tripdata_aggregate.csv)
+You can see the [final clean file](https://github.com/IronStark007/Data-Analyst-Portfolio/blob/master/Case%20Study%20-%20Cyclistic%20Bike%20Share/Data%20Cleaning/tripdata_aggregate.csv)
 
 ## Conclusion
 
