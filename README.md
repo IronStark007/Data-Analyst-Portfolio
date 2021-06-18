@@ -9,7 +9,7 @@ This repository contains all the project of my Data Analyst Portfolio
       * Analysis/Visualization   
       * Recommendation/Conclusion & Next Steps
  
-## PROJECTS!
+## PROJECTS
 | S.no | Project Name | Problem |
 | --------------- | --------------- | --------------- |
 | 1 | [Case Study - Cyclistic Bike-Share](https://github.com/IronStark007/Data-Analyst-Portfolio/tree/master/Case%20Study%20-%20Cyclistic%20Bike%20Share) |  How do Bike-Share Navigate Speedy Success?
