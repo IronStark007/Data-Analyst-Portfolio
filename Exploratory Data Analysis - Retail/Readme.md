@@ -16,6 +16,7 @@ I have loaded the dataset and cleaned (preprocess) it  for consistency then move
 In EDA, I have compare the sales with the highest reason to the sales of the lowest region to find out the reason of low sales in the weaker areas.
 
 You can check my [Work here](https://github.com/IronStark007/Data-Analyst-Portfolio/blob/master/Exploratory%20Data%20Analysis%20-%20Retail/EDA_Retail.ipynb)
+
 __Challenges__
 
 The data doesn't contain any dates data so we cant check for how much sales is increase for year or month or weeks.
