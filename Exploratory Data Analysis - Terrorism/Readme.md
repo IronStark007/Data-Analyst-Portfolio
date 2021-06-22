@@ -15,6 +15,7 @@ I have loaded the dataset and cleaned (preprocess) it  by removing many null col
 
 In EDA, I have checked which country, regions have higher in _Sucessful_ terrorist attack, the year wise trend of the terrorist activities, Which public/private property are most attacked by the terrorists.
 
+You can check my [Data Cleaning Process Here](https://github.com/IronStark007/Data-Analyst-Portfolio/blob/master/Exploratory%20Data%20Analysis%20-%20Terrorism/Data_Cleaning_Terrorism.ipynb)
 __Challenges__
 
 There is lots of missing values in most of the columns which makes it difficult to check all the aspects of terrorism attacks. 
