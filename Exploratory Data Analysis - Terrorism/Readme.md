@@ -39,7 +39,7 @@ The Defense/Security Aanalyst should/can -
 - impose strict survilience and major alert in _Iraq_ and _Pakistan_ countries so that they can if find any suspicious activity happening, should take immediate actions before any harm happens.
 - provide helpline and bomb squad support for every _Private Citizen & Property_ , _Government_ and _Police_ and increase its security policy to maintian the peace.
 
-You can check my [Tableau Dashboard](https://public.tableau.com/views/ExploratoryDataAnalysis-Terrorism_16243647690970/Dashboard?:language=en-US&:display_count=n&:origin=viz_share_link)
+You can check my [Tableau Dashboard](https://github.com/IronStark007/Data-Analyst-Portfolio/blob/master/Exploratory%20Data%20Analysis%20-%20Terrorism/EDA%20Analysis-Terrorism.png)
 
 
 <!-- You can check my Presentation - [Here](https://docs.google.com/presentation/d/1lFHJKADEmFr5k7nHMkYPuCs6T6EQmXsY1LFQYwqIldM/edit?usp=sharing) -->
