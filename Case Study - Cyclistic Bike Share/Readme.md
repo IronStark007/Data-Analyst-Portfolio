@@ -58,8 +58,7 @@ Marketing team should/can -
 * come up with a plan or __program for mid year or tourists passes__ where bike usage increases due to tourists activities
 * give __discounts or coupons for weekends__ so people will buy the passes more on weekends thereby relying more on our bikes
 
-You can check my [Tableau Dashboard](https://public.tableau.com/app/profile/ansari.mohammed.ali.nasim/viz/CaseStudy-DivvyBike/Dashboard1)
-
+You can check my [Tableau Dashboard](https://github.com/IronStark007/Data-Analyst-Portfolio/blob/master/Case%20Study%20-%20Cyclistic%20Bike%20Share/Cyclistic%20Bike-Share%20viz.png)
 
 You can check my [Presentation](https://docs.google.com/presentation/d/1lFHJKADEmFr5k7nHMkYPuCs6T6EQmXsY1LFQYwqIldM/edit?usp=sharing)
 
