@@ -39,8 +39,9 @@ The Sport Aanalyst should/can -
 -  consider _Lasith Malinga_, _Amit Mishra_ and _Harbhajan Singh_ for any adverstise __related to bowling or fielding products__.
 
 
-You can check my [Tableau Dashboard](https://public.tableau.com/app/profile/ansari.mohammed.ali.nasim/viz/ExploratoryDataAnalysis-Sports_16244468101010/ExploratoryDataAnalysis-Sports)
+You can check my [Tableau Dashboard](https://github.com/IronStark007/Data-Analyst-Portfolio/blob/master/Exploratory%20Data%20Analysis%20-%20Sports/Exploratory%20Data%20Analysis%20-%20Sports.png)
 
+OR IN [Tableau Public](https://public.tableau.com/app/profile/ansari.mohammed.ali.nasim/viz/ExploratoryDataAnalysis-Sports_16244468101010/ExploratoryDataAnalysis-Sports).
 
 <!-- You can check my Presentation - [Here](https://docs.google.com/presentation/d/1lFHJKADEmFr5k7nHMkYPuCs6T6EQmXsY1LFQYwqIldM/edit?usp=sharing) -->
 
