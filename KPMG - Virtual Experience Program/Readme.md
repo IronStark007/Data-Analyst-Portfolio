@@ -31,7 +31,7 @@ The Program has divided the solution into three tasks.
 
 __Task__ - _Draft an email to the client identifying the data quality issues and strategies to mitigate these issues._
 
-For solution - [Click Here.](https://docs.google.com/document/d/1gj3uu502U-H2a7mm9cOYIHnrpOcYv6xMZqF72rSTWUU/edit?usp=sharing)
+For solution - [Click Here.](https://github.com/IronStark007/Data-Analyst-Portfolio/blob/master/KPMG%20-%20Virtual%20Experience%20Program/KPMG%20Task%201%20-%20Data%20Quality%20Issues.pdf)
 
 ## Data Insights
 
@@ -41,7 +41,7 @@ In building this recommendation, I need to start with a PowerPoint presentation 
 
 __Task__ - _Prepare a detailed approach for completing the analysis including activities – i.e. understanding the data distributions, feature engineering, data transformations, modelling, results interpretation and reporting. This detailed plan needs to be presented to the client to get a sign-off._
 
-For Solution - [Click Here.](https://drive.google.com/file/d/1lT8Wzl7NnJ2jbhvOAuAJtSUjfN60yZIN/view?usp=sharing)
+For Solution - [Click Here.](https://github.com/IronStark007/Data-Analyst-Portfolio/blob/master/KPMG%20-%20Virtual%20Experience%20Program/KPMG%20Task-2%20-%20Data%20Insights.pdf)
 
 ## Data Insights and Presentation
 
@@ -53,8 +53,7 @@ Important questions to keep in mind the business context when presenting your fi
 - What do you propose should be Sprocket Central Pty Ltd ’s marketing and growth strategy?
 - Specifically, your presentation should specify who Sprocket Central Pty Ltd’s marketing team should be targeting out of the new 1000 customer list as well as the broader market segment to reach out to. 
 
-For solution - [Click Here.](https://public.tableau.com/views/KPMGTask3_16251341674450/Dashboard?:language=en-US&:display_count=n&:origin=viz_share_link)
-
+For solution - [Click Here.](https://github.com/IronStark007/Data-Analyst-Portfolio/blob/master/KPMG%20-%20Virtual%20Experience%20Program/KPMG%20Task-3%20Presentation.pdf)
 ## Conclusion
 
 Marketing team should deploy the targeted model based on -
