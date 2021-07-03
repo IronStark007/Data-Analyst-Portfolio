@@ -9,4 +9,5 @@ This repository contains all the project of my Data Analyst Portfolio
 | 3 | [Exploratory Data Analysis - Terrorism](https://github.com/IronStark007/Data-Analyst-Portfolio/tree/master/Exploratory%20Data%20Analysis%20-%20Terrorism) | Find out the hot zone of terrorism.
 | 4 | [Exploratory Data Analysis - Sports](https://github.com/IronStark007/Data-Analyst-Portfolio/tree/master/Exploratory%20Data%20Analysis%20-%20Sports) | Find out the most successful team and players in IPL.
 | 5 | [Case Study - Cyclistic Bike-Share](https://github.com/IronStark007/Data-Analyst-Portfolio/tree/master/Case%20Study%20-%20Cyclistic%20Bike%20Share) |  How do Bike-Share Navigate Speedy Success?
+| 6 | [KPMG - Virtual Experience Program](https://github.com/IronStark007/Data-Analyst-Portfolio/tree/master/KPMG%20-%20Virtual%20Experience%20Program) | Improve performance by focusing on High Value Customers.
 
