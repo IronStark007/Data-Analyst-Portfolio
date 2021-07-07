@@ -29,9 +29,9 @@ The Insights contains -
 - Top 5 Customers by Profit and Revenue
 - Top 5 Products by Profit and Revenue
 
-You can check my [Tableau Dashboards Here](https://public.tableau.com/views/SalesInsights_16255721241310/ProfitAnalysis?:language=en-US&:display_count=n&:origin=viz_share_link).
+You can check my [Revenue Analysis Here](https://github.com/IronStark007/Data-Analyst-Portfolio/blob/master/Sales%20Insights/Revenue%20Analysis.pdf).
 
-
+You can check my [Profit Analysis Here](https://github.com/IronStark007/Data-Analyst-Portfolio/blob/master/Sales%20Insights/Profit%20Analysis.pdf).
 ## Recommendations
 
 Based on the dashbaords insights, I have made some recommendation that
